@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6HOFuLQxpmV" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Working from Home.an</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Working_from_Home.an_ORG">
+    <organization identifier="Working_from_Home.an_ORG">
+      <title>Working from Home.an</title>
+      <item identifier="WFH_v3_SCO" isvisible="true" identifierref="__6HOFuLQxpmV_RES">
+        <title>Working from Home.an</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6HOFuLQxpmV_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ZvTzUCDK7m_P_0_279_1334_1502.jpg" />
+      <file href="mobile/6KCi0aT1HdT.jpg" />
+      <file href="mobile/5iTrsuLfvUf.png" />
+      <file href="mobile/5UyQIC0bsct_M_1198_1198.png" />
+      <file href="story_content/66A7JyyCflT_44100_48_0.mp3" />
+      <file href="story_content/6pcUWkURUmm_captions.js" />
+      <file href="mobile/60omA3uGFDu_P_0_47_2048_1151.jpg" />
+      <file href="story_content/6mFHoroCWsP_44100_48_0.mp3" />
+      <file href="story_content/5WQEAFRIVzL_44100_48_0.mp3" />
+      <file href="story_content/5oRnZf4PTRE_captions.js" />
+      <file href="story_content/5x8SYQmLO5h_44100_48_0.mp3" />
+      <file href="story_content/6VK9te7tZoZ_captions.js" />
+      <file href="story_content/6d2rSDWE5sO_44100_48_0.mp3" />
+      <file href="story_content/5lkscDb9Nbj_captions.js" />
+      <file href="mobile/61ddFISVPdQ_M_518_518.png" />
+      <file href="mobile/6TP21yKK1nZ_M_1120_1120.png" />
+      <file href="story_content/5UzAan3aTph_44100_48_0.mp3" />
+      <file href="story_content/5crOM5u4Toz_captions.js" />
+      <file href="story_content/6C403IGp16b_44100_48_0.mp3" />
+      <file href="story_content/6kdl9GXUi1v_captions.js" />
+      <file href="mobile/6RDFOd3Wn2Z_M_436_436.png" />
+      <file href="story_content/6UOAfJd8G51_44100_48_0.mp3" />
+      <file href="story_content/6Ke337VacBZ_captions.js" />
+      <file href="mobile/5ffiF6CTzht_M_1308_1308.png" />
+      <file href="story_content/5eris0pRd1N_44100_48_0.mp3" />
+      <file href="story_content/5yoXTA3Bc5h_captions.js" />
+      <file href="story_content/623ofa7hxVg.js" />
+      <file href="story_content/5fz7C5ioDMK.js" />
+      <file href="story_content/6ERYLLp7b6f.js" />
+      <file href="story_content/5voUPvH5TjT_44100_48_0.mp3" />
+      <file href="story_content/5sMSfKzzCiV_captions.js" />
+      <file href="mobile/5gXhCRGTT35_M_1196_1196.png" />
+      <file href="story_content/6kVNu1yWYQe_44100_48_0.mp3" />
+      <file href="story_content/6oDzshtF2n4_captions.js" />
+      <file href="mobile/6kYnk3gz3ZF_M_1140_1140.png" />
+      <file href="mobile/6EAcqojiN6a_M_692_692.png" />
+      <file href="mobile/6VvCAkOl6iD_M_986_986.png" />
+      <file href="story_content/5o4fWb3aEeb_44100_48_0.mp3" />
+      <file href="story_content/5nHDuFTWZp7_captions.js" />
+      <file href="mobile/5fBbi6yHNkj_M_1008_1008.png" />
+      <file href="story_content/5pvtrxT3Pp0_44100_48_0.mp3" />
+      <file href="story_content/6RXMpkyoZ23_captions.js" />
+      <file href="story_content/6HPeixknCU2_44100_48_0.mp3" />
+      <file href="story_content/66FuRrO5jdQ_captions.js" />
+      <file href="story_content/5qIEWXTAkD3_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a7QcR8j3ts.js" />
+      <file href="html5/data/js/5hO748KeeHX.js" />
+      <file href="html5/data/js/5i1htmeazqK.js" />
+      <file href="html5/data/js/5kQVHTQb98d.js" />
+      <file href="html5/data/js/5p4qwQrP80X.js" />
+      <file href="html5/data/js/5rpHoHCnVRq.js" />
+      <file href="html5/data/js/5WVDVWmeXz8.js" />
+      <file href="html5/data/js/5WVvAbQVF5v.js" />
+      <file href="html5/data/js/5xionENHtLO.js" />
+      <file href="html5/data/js/5XXTDbEYIek.js" />
+      <file href="html5/data/js/5YssmvM3Q8i.js" />
+      <file href="html5/data/js/61MlyKUCeVu.js" />
+      <file href="html5/data/js/63hcYbUJvvo.js" />
+      <file href="html5/data/js/64v6rpqeunO.js" />
+      <file href="html5/data/js/687P1hrVReC.js" />
+      <file href="html5/data/js/6anj8V8iv16.js" />
+      <file href="html5/data/js/6dX9iZr4z3N.js" />
+      <file href="html5/data/js/6IRJYF5YNAF.js" />
+      <file href="html5/data/js/6Iuf856wu98.js" />
+      <file href="html5/data/js/6jHti0PhF7U.js" />
+      <file href="html5/data/js/6Yl81ywVPD7.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
